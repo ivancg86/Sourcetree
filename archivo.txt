@@ -1,3 +1,6 @@
 hola mundo
+<<<<<<< HEAD
 archivo
+=======
 que tal?
+>>>>>>> 39f1de16358cd1a325ff74ef5f93ff012666c315
